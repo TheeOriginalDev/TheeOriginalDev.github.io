@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Devon Jones"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/devonjones.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Aspiring Data Science Professional"
   location         : "San Jose, CA"
   email            :
@@ -131,6 +131,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/devonhjones"
 
 # Site Footer
 footer:
