@@ -1,9 +1,8 @@
 ---
+layout: archive
 permalink: /python-learning/
 title: "Python Posts by Tags"
 author_profile: true
-header:
-  image: "/images/sharks.jpg"
 ---
 
 {% include base_path %}
