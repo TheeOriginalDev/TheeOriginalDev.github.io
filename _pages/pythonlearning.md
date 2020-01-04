@@ -4,7 +4,7 @@ permalink: /python-learning/
 title: "Python Learning Posts by Tags"
 author_profile: true
 header:
-  image: "/images/sjsharks.jpg"
+  image: "/images/sanjosestate.png"
 ---
 
 {% for post in site.posts %}
