@@ -3,7 +3,7 @@ title: "Python Project: Python Store"
 date: 2020-01-04
 tags: [python, beginner, fundamentals, functions]
 header:
-  image: "/images/python_store/register.png"
+  image: "/images/python_store/mystore.png"
 excerpt: "Python Learning, Python Store, Data Science"
 mathjax: "true"
 ---
@@ -20,7 +20,7 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a [link](https://github.com/TheeOriginalDev)
+What about a link?[link](https://github.com/TheeOriginalDev)
 
 Here's a bulleted list:
 * First item
