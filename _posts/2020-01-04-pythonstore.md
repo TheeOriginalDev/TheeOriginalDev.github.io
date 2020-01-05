@@ -1,6 +1,6 @@
 ---
 title: "Python Project: Python Store"
-date: 2019-12-18
+date: 2020-01-04
 tags: [python, beginner, fundamentals, functions]
 header:
   image: "/images/python_store/register.png"
