@@ -1,13 +1,7 @@
 ---
 layout: categories
 permalink: /categories/
-title: "Projects"
 author_profile: true
-header:
-  image: "/images/sjsharks.jpg"
----
-
----
 title: "My Very First Blog!"
 date: 2020-01-06
 tags: [Hello World, Introduction, Intro]
