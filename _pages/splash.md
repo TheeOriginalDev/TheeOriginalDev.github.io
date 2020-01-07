@@ -1,11 +1,9 @@
 ---
-title: "Splash Page"
+title: "Photography"
 layout: splash
 permalink: /splash-page/
 date: 2020-01-06T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: "images/graffiti"
   actions:
     - label: "Download"
