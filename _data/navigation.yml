@@ -6,6 +6,8 @@ main:
     url: /blog/
   - title: "Projects"
     url: /markdown-learning/
+  - title: Freestyle
+    url: /splash-page/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
