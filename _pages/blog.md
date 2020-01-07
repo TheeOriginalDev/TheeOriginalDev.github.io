@@ -4,7 +4,7 @@ permalink: /blog/
 title: "Devon Jones' Blog"
 author_profile: true
 header:
-  image: "/images/blog.jpg"
+  image: "/images/blog/blog.jpg"
 ---
 
 {% for post in site.posts %}
