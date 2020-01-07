@@ -4,6 +4,7 @@ date: 2020-01-04
 tags: [Markdown, MD, fundamentals]
 header:
   image: "/images/markdownlearning/random.png"
+  teaser: "images/teaser/example.png"
 excerpt: "Markdown Features, Adding Mathjax"
 mathjax: "true"
 ---
