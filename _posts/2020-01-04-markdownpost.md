@@ -51,10 +51,16 @@ head(df)
 Here's some inline code `x+y`
 
 Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/python_store/register.png" alt="Code for Python Store">
+<img src="{{ site.url }}{{ site.baseurl }}/images/markdownlearning/somedata.png" alt="Code for Some Data">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/python_store/register.png)
+![alt]({{ site.url }}{{ site.baseurl }}/images/markdownlearning/dashboard.jpg)
+
+Here's a gif:
+![alt text](https://translate.google.com/?hl=en&tab=iT1&authuser=0 "NICE!")
+
+And a picture using the image url:
+![alt text](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2018/07/fruitveg-454x313.jpeg "Fruits & Veggies")
 
 Here's some math:
 
