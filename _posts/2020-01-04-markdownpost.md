@@ -3,12 +3,12 @@ title: "What is Markdown?"
 date: 2020-01-04
 tags: [Markdown, MD, fundamentals]
 header:
-  image: "/images/python_store/mystore.png"
+  image: "/images/markdownlearning/random.png"
 excerpt: "Markdown Features, Adding Mathjax"
 mathjax: "true"
 ---
 
-# H1 Heading FEATURING "Markdown"
+# H1 Heading
 
 ## H2 Heading
 
@@ -51,15 +51,12 @@ head(df)
 Here's some inline code `x+y`
 
 Here's an image:
-<img src="{{ site.url }}{{ site.baseurl }}/images/markdownlearning/somedata.png" alt="Code for Some Data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/markdownlearning/somedata.png" alt="Random Picture of some Data">
 
 Here's another image using Kramdown:
 ![alt]({{ site.url }}{{ site.baseurl }}/images/markdownlearning/dashboard.jpg)
 
-Here's a gif:
-![alt text](https://translate.google.com/?hl=en&tab=iT1&authuser=0 "NICE!")
-
-And a picture using the image url:
+Here is a picture using the image url:
 ![alt text](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/21/2018/07/fruitveg-454x313.jpeg "Fruits & Veggies")
 
 Here's some math:
@@ -67,3 +64,5 @@ Here's some math:
 $$z=x+y$$
 
 You can also put it inline $$z=x+y$$
+
+![alt]({{ site.url }}{{ site.baseurl }}/images/markdownlearning/giphy.gif)
