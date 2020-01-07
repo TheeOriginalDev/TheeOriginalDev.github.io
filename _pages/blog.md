@@ -1,10 +1,10 @@
 ---
 layout: collection
 permalink: /blog/
-author_profile: true
+author_profile: false
 title: "Blog"
 collection: blog
-entries_layout: grid
+entries_layout: list
 header:
   image: "/images/blog/blog.png"
 ---
