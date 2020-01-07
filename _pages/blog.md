@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /markdown-learning/
-title: "Projects"
+permalink: /blog/
+title: "Devon Jones' Blog"
 author_profile: true
 header:
-  image: "/images/sjsharks.jpg"
+  image: "/images/blog.jpg"
 ---
 
 {% for post in site.posts %}
