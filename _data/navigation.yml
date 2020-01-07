@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Blog"
-    url: /categories/
+    url: /blog/
   - title: "Projects"
     url: /markdown-learning/
   # - title: "About"
