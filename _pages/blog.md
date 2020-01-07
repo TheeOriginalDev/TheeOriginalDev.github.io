@@ -1,0 +1,26 @@
+---
+layout: categories
+permalink: /categories/
+title: "Projects"
+author_profile: true
+header:
+  image: "/images/sjsharks.jpg"
+---
+
+---
+title: "My Very First Blog!"
+date: 2020-01-06
+tags: [Hello World, Introduction, Intro]
+header:
+  image: "/images/blog/really.gif"
+excerpt: "Hello World, Introduction"
+---
+# Pleased to meet "ME"
+
+Sooooo...
+
+I have been wanting to do something like this for a while now, but as I am nearing the end of my undergraduate studies I am just starting to really have more time outside of my studies `(if you dig what I am saying?)` to focus more on my freelance work.
+
+If you are interested, keep an eye out for some of the upcoming stuff I plan to periodically spam this site with.
+
+For now, *Au revoir*
