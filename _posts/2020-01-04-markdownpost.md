@@ -1,14 +1,14 @@
 ---
-title: "Python Project: Python Store"
+title: "What is Markdown?"
 date: 2020-01-04
-tags: [python, beginner, fundamentals, functions]
+tags: [Markdown, MD, fundamentals]
 header:
   image: "/images/python_store/mystore.png"
-excerpt: "Python Learning, Python Store, Data Science"
+excerpt: "Markdown Features, Adding Mathjax"
 mathjax: "true"
 ---
 
-# Python Store
+# H1 Heading FEATURING "Markdown"
 
 ## H2 Heading
 

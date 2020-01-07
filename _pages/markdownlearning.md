@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /python-learning/
-title: "Python Learning Posts by Tags"
+permalink: /markdown-learning/
+title: "Playing around with Markdown"
 author_profile: true
 header:
   image: "/images/sjsharks.jpg"
