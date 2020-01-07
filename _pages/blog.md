@@ -6,7 +6,3 @@ title: "Blog"
 header:
   image: "/images/blog/blog.png"
 ---
-
-{% for post in site.blog %}
-    {% include archive-single.html %}
-{% endfor %}
