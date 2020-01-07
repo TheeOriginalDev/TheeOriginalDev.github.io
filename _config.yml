@@ -113,12 +113,12 @@ author:
   location         : "San Jose, CA"
   email            :
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:mr.devonhjones@gmail.com
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/devonhjones"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:mr.devonhjones@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"

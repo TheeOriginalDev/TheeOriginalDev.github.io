@@ -4,7 +4,7 @@ layout: splash
 permalink: /splash-page/
 date: 2020-01-06T11:48:41-04:00
 header:
-  overlay_image: "images/graffiti"
+  overlay_image: "assets/images/graffiti"
   actions:
     - label: "Download"
       url: "https://github.com/TheeOriginalDev"
