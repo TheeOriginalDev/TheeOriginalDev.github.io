@@ -7,6 +7,6 @@ header:
   image: "/images/blog/blog.png"
 ---
 
-{% for post in site.blog %}
-    {% include archive-blog.html %}
+{% for post in site.posts %}
+    {% include archive-posts.html %}
 {% endfor %}
