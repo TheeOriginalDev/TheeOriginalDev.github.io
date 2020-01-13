@@ -1,5 +1,6 @@
 ---
 title: "What is Markdown?"
+collection: Projects
 date: 2020-01-04
 tags: [Markdown, MD, fundamentals]
 header:

@@ -1,10 +1,12 @@
 ---
-layout: collection
-title: "Blog"
+layout: archive
 permalink: /blog/
-collection: blogs
-author_profile: false
-entries_layout: list
+title: "Projects"
+author_profile: true
 header:
-  image: "/images/blog/blog.png"
+  image: "/images/sjsharks.jpg"
 ---
+
+{% for post in site.posts %}
+    {% include archive-single.html %}
+{% endfor %}
