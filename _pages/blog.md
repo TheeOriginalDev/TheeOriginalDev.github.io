@@ -1,13 +1,10 @@
 ---
-layout: archive
-permalink: /blog/
-author_profile: false
+layout: collection
 title: "Blog"
+permalink: /blog/
+collection: blogs
+author_profile: false
 entries_layout: list
 header:
   image: "/images/blog/blog.png"
 ---
-
-{% for post in site.blogs %}
-    {% include archive-double.html %}
-{% endfor %}
