@@ -1,8 +1,6 @@
 ---
 title: "What is Markdown?"
 collection: Projects
-date: 2020-01-04
-tags: [Markdown, MD, fundamentals]
 header:
   image: "/images/markdownlearning/random.png"
 excerpt: "A post featuring Markdown syntax and the use of Mathjax"

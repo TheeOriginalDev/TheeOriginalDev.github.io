@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Collections"
+    url: /collections/
   - title: "Blog"
     url: /blog/
-  - title: "Projects"
-    url: /projects/
   - title: Freestyle
     url: /splash-page/
   # - title: "About"
