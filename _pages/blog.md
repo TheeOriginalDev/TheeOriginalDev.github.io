@@ -4,7 +4,7 @@ permalink: /blog/
 title: "Projects"
 author_profile: true
 header:
-  image: "/images/sjsharks.jpg"
+  image: "/images/blog/blog.png"
 ---
 
 {% for post in site.posts %}
