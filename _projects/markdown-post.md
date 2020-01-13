@@ -1,6 +1,6 @@
 ---
 title: "What is Markdown?"
-collection: Projects
+permalink: /projects/markdown/
 header:
   image: "/images/markdownlearning/random.png"
 excerpt: "A post featuring Markdown syntax and the use of Mathjax"
