@@ -1,9 +1,11 @@
 ---
 title: "What is Markdown?"
 permalink: /projects/markdown/
+excerpt: "A post featuring Markdown syntax and the use of Mathjax"
+last_modified_at: 2019-08-20T21:36:11-04:00
+toc: true
 header:
   image: "/images/markdownlearning/random.png"
-excerpt: "A post featuring Markdown syntax and the use of Mathjax"
 mathjax: "true"
 ---
 
