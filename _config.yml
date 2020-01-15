@@ -215,10 +215,13 @@ kramdown:
   enable_coderay: false
 
 # Collections
-Collections:
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
   pets:
     output: true
-    permalink: /pets/
+    permalink: /:collection/:path/
 
 # Sass/SCSS
 sass:
