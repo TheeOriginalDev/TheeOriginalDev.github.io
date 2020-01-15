@@ -14,11 +14,13 @@ mathjax: "true"
 
 ### H3 Heading
 
-<p style="text-align: center;">Here's some basic ~~text~~.</p>
+<p style="text-align: center;">Here's some basic text.</p>
 
 And here's some *italics*
 
 Here's some **bold** text.
+
+Here's some ~~text~~ with a strikethrough.
 
 What about a [link](https://github.com/TheeOriginalDev)?
 
