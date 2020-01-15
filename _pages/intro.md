@@ -17,4 +17,7 @@ If you took the time to read this, `THANK YOU!` (*I am virtually applauding you*
 
 If you didn't ... we all know why.
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/arthur.gif)
+<p style="text-align: center;">![alt]({{ site.url }}{{ site.baseurl }}/images/arthur.gif)</p>
+
+Best,
+Devon Jones
