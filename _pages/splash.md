@@ -24,7 +24,7 @@ feature_row:
     alt: "12's"
     title: "Air Jordan Retro 'The Master' 12s"
     excerpt: "One of my go to kicks for everyday use *periodt*."
-    url: "#test-link"
+    url: "https://stockx.com/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: "/images/freestyle/13s.jpg"
