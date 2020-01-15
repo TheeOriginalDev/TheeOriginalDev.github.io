@@ -1,37 +1,37 @@
 ---
-title: "Photography"
+title: "Wildstyle"
 layout: splash
 permalink: /splash-page/
-date: 2020-01-06T11:48:41-04:00
+date: 2020-01-06
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "images/graffiti.jpg"
+  overlay_image: "images/freestyle/graffiti.jpg"
   actions:
-    - label: "Download"
-      url: "https://github.com/TheeOriginalDev"
-  caption: "Photo Credit [**Me**](https://linkedin.com/in/devonhjones)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+    - label: "Instagram"
+      url: "https://www.instagram.com/whoisdevonjones/"
+  caption: "Photo Credit [**Me**](https://www.instagram.com/whoisdevonjones/)"
+excerpt: "Free-spirited, creativity at its finest, who doesn't like a little bit of photography from the instagram! Follow me @whoisdevonjones"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/freestyle/11s.jpg
+    alt: "11's"
+    title: "Air Jordan Retro 'Concord' 11s"
+    excerpt: "These are one of my favorite pairs of kicks all time."
+  - image_path: /images/freestyle/12s.jpg
+    image_caption: "Image courtesy of [StockX](https://stockx.com/)"
+    alt: "12's"
+    title: "Air Jordan Retro 'The Master' 12s"
+    excerpt: "One of my go to kicks for everyday use *periodt*."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /images/freestyle/13s.jpg
+    title: "Air Jordan Retro 'Black Cat' 13s"
+    excerpt: "If you don't own a pair of these... well you don't own a pair I guess"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/freestyle/11s.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/freestyle/13s.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -47,7 +47,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: /images/freestyle/jordan.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
