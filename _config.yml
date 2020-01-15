@@ -216,10 +216,10 @@ kramdown:
 
 # Collections
 collections:
-  projects:
+  Projects:
     output: true
     permalink: /:collection/:path/
-  pets:
+  Pets:
     output: true
     permalink: /:collection/:path/
 
