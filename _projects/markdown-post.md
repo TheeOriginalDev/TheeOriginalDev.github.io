@@ -14,7 +14,7 @@ mathjax: "true"
 
 ### H3 Heading
 
-<p style="text-align: center;">Here's some basic text.</p>
+<p style="text-align: center;">Here's some basic ~~text~~.</p>
 
 And here's some *italics*
 

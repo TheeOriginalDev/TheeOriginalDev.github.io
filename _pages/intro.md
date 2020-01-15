@@ -19,5 +19,7 @@ If you didn't ... we all know why.
 
 <div style="text-align:center"><img src="/images/arthur.gif" /></div>
 
+
 Best,
+
 Devon Jones
