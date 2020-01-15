@@ -1,5 +1,5 @@
 ---
-title: "Pets"
+title: Pets
 layout: collection
 permalink: /pets/
 collection: pets

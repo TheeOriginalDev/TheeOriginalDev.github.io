@@ -4,7 +4,6 @@ permalink: /projects/markdown/
 date: 2020-01-04
 excerpt: "A post featuring Markdown syntax and the use of Mathjax"
 header:
-  image: "/images/markdownlearning/random.png"
 mathjax: "true"
 ---
 
@@ -14,7 +13,7 @@ mathjax: "true"
 
 ### H3 Heading
 
-Here's some basic text.
+<p style="text-align: center;">Here's some basic text.</p>
 
 And here's some *italics*
 
@@ -22,10 +21,10 @@ Here's some **bold** text.
 
 What about a link?[link](https://github.com/TheeOriginalDev)
 
-Here's a bulleted list:
+<p style="text-align: center;"> Here's a bulleted list:
 * First item
 + Second item
-- Third item
+- Third item </p>
 
 Here's a numbered list:
 1. First

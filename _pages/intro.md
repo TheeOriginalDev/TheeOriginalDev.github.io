@@ -17,7 +17,8 @@ If you took the time to read this, `THANK YOU!` (*I am virtually applauding you*
 
 If you didn't ... we all know why.
 
-<p style="text-align: center;">![alt]({{ site.url }}{{ site.baseurl }}/images/arthur.gif)</p>
+<div style="text-align:center"><img src="/images/arthur.gif" /></div>
+<p style="text-align: center;"> ![alt]({{ site.url }}{{ site.baseurl }}/images/arthur.gif) </p>
 
 Best,
 Devon Jones
