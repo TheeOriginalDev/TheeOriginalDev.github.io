@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Devon Jones"
   avatar           : "/images/devonjones.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Not your average dev, but *TheeOriginalDev*."
+  bio              : "Not your average Developer, but **TheeOriginalDev**."
   location         : "San Jose, CA"
   email            :
   links:
@@ -133,7 +133,7 @@ author:
       url: "https://github.com/TheeOriginalDev"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/whoisdevonjones/" # "https://instagram.com/"
 
 # Site Footer
 footer:
@@ -155,7 +155,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://www.instagram.com/whoisdevonjones/"
 
 
 # Reading Files
