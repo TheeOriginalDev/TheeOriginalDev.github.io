@@ -218,7 +218,7 @@ kramdown:
 Collections:
   pets:
     output: true
-    permalink: /:collection/:path/
+    permalink: /pets/
 
 # Sass/SCSS
 sass:
