@@ -4,6 +4,7 @@ permalink: /projects/markdown/
 date: 2020-01-04
 excerpt: "A post featuring Markdown syntax and the use of Mathjax"
 header:
+  teaser: "/images/teaser/example.png"
 mathjax: "true"
 ---
 
@@ -19,12 +20,12 @@ And here's some *italics*
 
 Here's some **bold** text.
 
-What about a link?[link](https://github.com/TheeOriginalDev)
+What about a [link](https://github.com/TheeOriginalDev)?
 
-<p style="text-align: center;"> Here's a bulleted list:
+Here's a bulleted list:
 * First item
 + Second item
-- Third item </p>
+- Third item
 
 Here's a numbered list:
 1. First
