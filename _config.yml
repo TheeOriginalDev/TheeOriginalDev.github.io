@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "en-US"
 title                    : "Devon Jones"
 title_separator          : "|"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "`HOME` <<" # site tagline that appears below site title in masthead
 name                     : "Devon Jones"
-description              : "Data Science Portfolio"
+description              : "Personal Website"
 url                      : "https://TheeOriginalDev.github.io" #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -66,7 +66,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : true # true, false (default)
-search_full_content      : # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Devon Jones"
   avatar           : "/images/devonjones.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Aspiring Data Science Professional"
+  bio              : "Not your average dev, but *TheeOriginalDev*."
   location         : "San Jose, CA"
   email            :
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/TheeOriginalDev"  # "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -140,13 +140,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: "https://twitter.com/TheeOriginalDev"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/TheeOriginalDev"
+      url: "https://github.com/TheeOriginalDev"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -216,10 +216,10 @@ kramdown:
 
 # Collections
 collections:
-  Projects:
+  projects:
     output: true
     permalink: /:collection/:path/
-  Pets:
+  pets:
     output: true
     permalink: /:collection/:path/
 
