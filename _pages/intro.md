@@ -17,9 +17,10 @@ There are more topics that I am interested in and I plan to make some updates to
 
 If you didn't ... we all know why.
 
-<div style="text-align:center"><img src="/images/arthur.gif" /></div>
+<div style="text-align:center"><img src="/images/arthur.gif"/></div>
 
 
 
 Best,
+
 Devon Jones
