@@ -313,6 +313,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _coursera
+  - scope:
+      path: ""
+      type: coursera
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _pets
   - scope:
       path: ""
