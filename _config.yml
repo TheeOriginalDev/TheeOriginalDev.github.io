@@ -216,6 +216,9 @@ kramdown:
 
 # Collections
 collections:
+  coursera:
+    output: true
+    permalink: /:collection/:path/
   projects:
     output: true
     permalink: /:collection/:path/
