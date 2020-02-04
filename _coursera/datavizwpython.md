@@ -50,6 +50,5 @@ print ('Data read into a pandas dataframe!')
 Let's view the top 5 rows of the dataset using the `head()` function.
 
 ```python
-df_can.head()
-# tip: You can specify the number of rows you'd like to see as follows: df_can.head(10)
+df_can.head() # tip: You can specify the number of rows you'd like to see as follows: df_can.head(10)
 ```

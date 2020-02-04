@@ -1,6 +1,7 @@
 ---
 title: "What is Data Science?"
 excerpt: "Learn why data science is considered the sexiest job in the 21st century. Learn about data science, data scientists, and how each is defined."
+layout: search
 ---
 
 # Exercise: Use computer vision to identify objects with IBM Watson

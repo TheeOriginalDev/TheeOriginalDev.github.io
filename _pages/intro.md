@@ -4,7 +4,7 @@ permalink: /intro/
 title: "About Me"
 author_profile: false
 header:
-  image: "/images/sanjosestate.png"
+  image: "/images/sjsu.png"
 ---
 
 My name is Devon Jones (*obviously*), but you may call me Dev for short. I am a senior at San Jose State University and will be graduating in Spring of 2020 with a Bachelor of Science in Business Analytics.
