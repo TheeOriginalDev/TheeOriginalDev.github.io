@@ -6,7 +6,7 @@ date: 2020-01-15T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "images/graffiti.jpg"
+  overlay_image: "images/sharks.png"
   actions:
     - label: "Instagram"
       url: "https://www.instagram.com/whoisdevonjones/"
