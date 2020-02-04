@@ -11,7 +11,7 @@ header:
     - label: "Instagram"
       url: "https://www.instagram.com/whoisdevonjones/"
   caption: "Photo Credit [**Me**](https://www.instagram.com/whoisdevonjones/)"
-excerpt: "Free-spirited, creativity at its finest, who doesn't like a little bit of photography from the instagram! Follow me @whoisdevonjones"
+excerpt: "Free-spirited creativity at its finest, who doesn't like a little bit of photography from the instagram! Follow me @whoisdevonjones"
 intro:
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
